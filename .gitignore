@@ -1,0 +1,3 @@
+run.sh
+frontend/node_modules
+yarn.lock
